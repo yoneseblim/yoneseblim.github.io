@@ -1,7 +1,7 @@
 # Hi, I'm Yone
 
 <p align="left">
-  <a href="www.linkedin.com/in/yoné-lim-820a1237b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[www.linkedin.com/in/yoné-lim-820a1237b](https://www.linkedin.com/in/yon%C3%A9-lim-820a1237b)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="yone@umich.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
